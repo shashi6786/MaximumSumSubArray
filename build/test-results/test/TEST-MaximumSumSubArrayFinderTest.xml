@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MaximumSumSubArrayFinderTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-10-01T01:28:27" hostname="MGC12YV7SDLVDQ.fbpld77.ford.com" time="0.032">
+  <properties/>
+  <testcase name="given_k_IsNegativeWhenFindMaximumSumSubArrayThenReturnInvalid()" classname="MaximumSumSubArrayFinderTest" time="0.024"/>
+  <testcase name="givenAnEmptyInputArrayWhenFindMaximumSumSubArrayThenReturnInvalid()" classname="MaximumSumSubArrayFinderTest" time="0.001"/>
+  <testcase name="givenANonEmptyArrayAnd_k_is2WhenFindMaximumSumSubArrayAndMaximumSumOverflowsIntegerLimitThenReturn4294967294()" classname="MaximumSumSubArrayFinderTest" time="0.001"/>
+  <testcase name="givenANonEmptyArrayAnd_k_is2WhenFindMaximumSumSubArrayThenReturn500()" classname="MaximumSumSubArrayFinderTest" time="0.001"/>
+  <testcase name="given_k_IsGreaterThanInputArraySizeWhenFindMaximumSumSubArrayThenReturnInvalid()" classname="MaximumSumSubArrayFinderTest" time="0.001"/>
+  <testcase name="givenANonEmptyArrayAnd_k_is5WhenFindMaximumSumSubArrayThenReturn16()" classname="MaximumSumSubArrayFinderTest" time="0.0"/>
+  <testcase name="givenANonEmptyArrayAnd_k_is5WhenFindMaximumSumSubArrayThenReturn19()" classname="MaximumSumSubArrayFinderTest" time="0.0"/>
+  <testcase name="givenANonEmptyArrayAndKis2WhenFindMaximumSumSubArrayThenReturn700()" classname="MaximumSumSubArrayFinderTest" time="0.0"/>
+  <testcase name="givenANonEmptyArrayAnd_k_is4WhenFindMaximumSumSubArrayThenReturn39()" classname="MaximumSumSubArrayFinderTest" time="0.001"/>
+  <testcase name="given_k_IsZeroWhenFindMaximumSumSubArrayThenReturnInvalid()" classname="MaximumSumSubArrayFinderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
